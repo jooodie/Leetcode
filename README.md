@@ -1,5 +1,5 @@
 
-# 🧠 Judy's LeetCode Notes
+# 🧠 Jodie's LeetCode Notes
 
 Welcome to my coding journey! ✨  
 This repository contains my personal notes and solutions while practicing LeetCode problems, especially in **C language**.
@@ -16,12 +16,6 @@ This repository contains my personal notes and solutions while practicing LeetCo
 
 ---
 
-## 🔧 Contents
-
-- [Merge Strings Alternately (C)](judy_notes.md) – step-by-step breakdown, code, memory explanation, and LeetCode tips
-
----
-
 ## 💡 Why this repo?
 
 I created this to:
@@ -33,7 +27,7 @@ I created this to:
 
 ## 📌 About Me
 
-I'm Judy – a curious learner passionate about problem-solving, system thinking, and C programming (for now 😆).  
+I'm Jodie – a curious learner passionate about problem-solving, system thinking, and C programming (for now 😆).  
 Follow along or fork this repo if you'd like to build your own notes too!
 
 ---
